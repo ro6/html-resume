@@ -1,3 +1,5 @@
+- Run a local webserver with `python -m http.server` (or similar) and [Live.js](https://livejs.com/) will then reload the page on file save while developing.
+
 # html-resume
 A single-page résumé template done purely with HTML and CSS, which can be rendered into PDF through web browsers' print-to-PDF functionality, making a nice, sleek, professsional and ready-to-print résumé. See my living example at: https://mnjul.net/cv/resume.pdf
 
